@@ -1,0 +1,9 @@
+## 🧠 Descripción
+
+Este repositorio contiene dos ejemplos básicos en Java que explican conceptos fundamentales de la programación orientada a objetos:
+
+- **Dependencia**: Muestra cómo una clase puede usar otra sin tenerla como atributo permanente, es decir, depende de ella solo para realizar una tarea específica.
+
+- **Polimorfismo**: Demuestra cómo diferentes clases que comparten una misma superclase pueden responder de manera distinta al mismo método, permitiendo flexibilidad y reutilización de código.
+
+Estos ejemplos están diseñados para estudiantes o personas que están comenzando a aprender POO, y buscan entender cómo aplicar estos principios de manera clara y práctica.
